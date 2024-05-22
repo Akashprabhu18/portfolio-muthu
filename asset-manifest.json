@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio-muthu/static/css/main.3511be22.css",
+    "main.js": "/portfolio-muthu/static/js/main.972b918b.js",
+    "static/js/453.f19e9853.chunk.js": "/portfolio-muthu/static/js/453.f19e9853.chunk.js",
+    "index.html": "/portfolio-muthu/index.html",
+    "main.3511be22.css.map": "/portfolio-muthu/static/css/main.3511be22.css.map",
+    "main.972b918b.js.map": "/portfolio-muthu/static/js/main.972b918b.js.map",
+    "453.f19e9853.chunk.js.map": "/portfolio-muthu/static/js/453.f19e9853.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3511be22.css",
+    "static/js/main.972b918b.js"
+  ]
+}
