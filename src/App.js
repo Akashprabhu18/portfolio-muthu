@@ -24,7 +24,7 @@ function App() {
     </div>
   );
 }
-
+//----------------------- Header----------------------//
 const Header = () => (
   <div id="header">
     <div className="container">
@@ -65,7 +65,8 @@ const Header = () => (
     </div>
   </div>
 );
-
+//----------------------- Header----------------------//
+//----------------------- About----------------------//
 const About = () => {
   const openTab = (tabname) => {
     const tablinks = document.getElementsByClassName("tab-links");
@@ -159,9 +160,7 @@ const About = () => {
                   <br />
                   Intermediate level
                 </li>
-                
-                
-              </ul>
+                </ul>
             </div>
             <div className="tab-contents" id="languages">
               <ul>
@@ -208,7 +207,8 @@ const About = () => {
     </div>
   );
 };
-
+//----------------------- About----------------------//
+//----------------------- CurriculumActivities----------------------/
 const CurriculumActivities = () => (
   <div id="curriculam">
     <div className="container">
@@ -238,7 +238,8 @@ const CurriculumActivities = () => (
     </div>
   </div>
 );
-
+//----------------------- CurriculumActivities----------------------//
+//----------------------- Projects----------------------//
 const Projects = () => (
   <div id="projects">
     <div className="container">
@@ -270,6 +271,8 @@ const Projects = () => (
     </div>
   </div>
 );
+//----------------------- Projects----------------------//
+//----------------------- Certifications----------------------//
 
 const Certifications = () => (
   <div id="Certifications">
@@ -320,6 +323,8 @@ const Certifications = () => (
     </div>
   </div>
 );
+//----------------------- Certifications----------------------//
+//----------------------- IndustrialExposure----------------------//
 
 const IndustrialExposure = () => (
   <div id="ind-expo">
@@ -363,6 +368,9 @@ const IndustrialExposure = () => (
     </div>
   </div>
 );
+//----------------------- IndustrialExposure----------------------//
+//----------------------- Contact----------------------//
+
 
 const Contact = () => (
   <div id="contact">
@@ -387,7 +395,7 @@ const Contact = () => (
             </a>
             
           </div>
-          <a href="/updated cv1.pdf" className="btn btn2">
+          <a href="./public/Muthu pandiyan-2024.pdf" download className="btn btn2">
             <DownloadButton/>
           </a>
         </div>
@@ -412,5 +420,6 @@ const Contact = () => (
     </div>
   </div>
 );
+//----------------------- Contact----------------------//
 
 export default App;
