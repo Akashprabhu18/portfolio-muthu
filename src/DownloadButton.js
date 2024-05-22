@@ -6,7 +6,7 @@ const DownloadButton = () => {
     <div className="button" data-tooltip="Size: 2Mb" style={{marginTop:"20px"}}>
       <div className="button-wrapper" >
         <div className="text">
-          <a href="/updated cv1.pdf" style={{ textDecoration: 'none', color: 'white' }}>
+          <a href="./public/Muthu pandiyan-2024.pdf" download="Muthu pandiyan-2024.pdf" style={{ textDecoration: 'none', color: 'white' }}>
             Download CV
           </a>
         </div>

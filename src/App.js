@@ -395,9 +395,9 @@ const Contact = () => (
             </a>
             
           </div>
-          <a href="./public/Muthu pandiyan-2024.pdf" download className="btn btn2">
+          
             <DownloadButton/>
-          </a>
+          
         </div>
         <div className="contact-right">
           <form>
