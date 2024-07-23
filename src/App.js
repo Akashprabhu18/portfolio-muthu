@@ -96,9 +96,9 @@ const About = () => {
           <div className="about-col-2">
             <h1 className="sub-title">About Me</h1>
             <p>
-              Hi, I'm Muthu pandiyan from Sivakasi. Now I'm pursuing Computer
+              Hi, I'm Muthu pandiyan from Sivakasi. I have Completed Computer
               Science and Engineering at AAA College of Engineering and
-              Technology, Sivakasi.
+              Technology, Sivakasi,with 8.23 CGPA .
             </p>
             <div className="tab-titles">
               <p
